@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map LED
+# by Rafał Kobylecki
+#	email:metallmaniac82@gmail.com
+# 	github: @metallmaniac82
+#######################################
+#
+# Datatypes (KEYWORD1)
+#
+#######################################
+
+Led	KEYWORD1
+
+#######################################
+#
+# Methods and Functions (KEYWORD2)
+#
+#######################################
+
+Toggle	KEYWORD2
+On	KEYWORD2
+Off	KEYWORD2
+
+#######################################
+#
+# Constants (LITERAL1)
+#
+#######################################
