@@ -10,8 +10,6 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
-  led1.On();
-  delay(1000);
-  led1.Off();
-  delay(1000);
+  led1.Toggle();
+  delay(500);
 }
